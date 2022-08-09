@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/ayanfe5/ML-Operationalize/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/ayanfe5/ML-Operationalize/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ayanfe5/Operationalize-machine-learning-microservices-API/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Ayanfe5/Operationalize-machine-learning-microservices-API/tree/main)
 
 ## Project Overview
 
